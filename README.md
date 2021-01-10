@@ -1,6 +1,6 @@
 📚 Coformatique guestbook 📚
 
-~Using MERN Stack~
+*Using MERN Stack*
 
  - Used 3 database collections :
   * Users
